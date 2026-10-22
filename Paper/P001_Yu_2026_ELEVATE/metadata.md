@@ -60,6 +60,10 @@ To be confirmed through full-text review.
 - Distinguish measured results, model predictions, and calculated values.
 - Verify applicability before linking empty-LNP measurements to mRNA-loaded formulations.
 
+## Data Distribution Characteristics 
+- All results are in the si excels.
+- Experiments conditions need to be found in the main file.
+
 ## Metadata Provenance
 
 - Bibliographic details and license information were transcribed from publisher-page text supplied by the user.
